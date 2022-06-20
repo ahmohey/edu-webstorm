@@ -17,3 +17,5 @@ function getInput() {//id = # , class = .
 
     document.querySelector('#result').value = result;
 }
+
+
